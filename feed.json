@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Steven Mark",
+    "title": "maxcavu.github.io",
     "description": "",
     "home_page_url": "https://maxcavu.github.io",
     "feed_url": "https://maxcavu.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://maxcavu.github.io/media/website/Steven-Mark-ico.jpg",
+    "icon": "https://maxcavu.github.io/media/website/Logo-Max-Cavu-2.jpg",
     "author": {
-        "name": "Steven Mark"
+        "name": "MaxCavu"
     },
     "items": [
     ]
