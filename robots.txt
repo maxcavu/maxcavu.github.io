@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://maxcavu.github.io/sitemap.xml

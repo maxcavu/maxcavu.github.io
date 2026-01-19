@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://maxcavu.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://maxcavu.github.io/</loc>
+</url>
+<url>
+<loc>https://maxcavu.github.io/how-to-send-crypto.html</loc>
+<lastmod>2026-01-18T15:18:51-08:00</lastmod>
+<image:image>
+<image:loc>https://maxcavu.github.io/media/posts/4/Chicago-Skyline-Banner-2.jpg</image:loc>
+<image:title><![CDATA[Sweet home Chicago. Downtown lakefront skyline. Bright summer day with low broken clouds obscuring the tops of skyscrapers. Photgraphed by Steven Mark]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://maxcavu.github.io/media/posts/4//Bitcoin-1EfZtEYNrupMGP5oP3b2MEw6sjMVHP28Vc.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://maxcavu.github.io/media/posts/4//Ethereum-0x400a8b47a5fa5263BD903EF03b564AA11fdf037D.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://maxcavu.github.io/privacy-policy.html</loc>
+<lastmod>2026-01-17T21:04:54-08:00</lastmod>
+</url>
+</urlset>
